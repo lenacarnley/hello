@@ -10,8 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Lena!!!\n");
-  printf("Undecided major!!!\n");
+  printf("Lena!\n");
+  printf("Undecided major!\n");
 
   return 0;
 }
